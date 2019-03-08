@@ -1,4 +1,4 @@
-# open-hardware-Mozilla-OL-track
+# Open-hardware-Mozilla-OL-track
 Documentation of learning program for open hardware including education materials, best practices, licenses, project sustainability and more. The idea here is to work on a specialized track that is similar to Mozilla Open Leaders program, but with a focus on open hardware development projects.
 
 ## Why
